@@ -1,4 +1,4 @@
-package com.study
+package com.study.demo1
 
 import java.awt.image.BufferedImage
 import java.io.File
